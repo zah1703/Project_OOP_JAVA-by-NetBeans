@@ -1,0 +1,2 @@
+projectcard.Rank
+projectcard.Card
